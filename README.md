@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my TCP/IP Networking Project
 
-You can use the [editor on GitHub](https://github.com/PaulSkelly/glowing-winner/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a based on some older C code for the TCP Server and Client.  After I built this project, I ran it a few times and developed a list of questions to try and break this example, or at least try to test the functional boundaries of how this code works.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Compiling the code
 
-### Markdown
+Add info hear
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Running the code
 
 ```markdown
 Syntax highlighted code block
